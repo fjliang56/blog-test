@@ -3,9 +3,12 @@
 ### LOL
 
 一行代码
-```
+
+`
     if( (2==MAP[x][y-1] || 7==MAP[x][y-1])&&(0==MAP[x][y-2] || 5==MAP[x][y-2]) )
-```
+`
+
+
 多行代码
 ```javascript
 int main() {
